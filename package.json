@@ -1,0 +1,15 @@
+{
+  "name": "websocket_mongodb_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ronny Nijimbere",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "2.2.30",
+    "socket.io": "2.3.0"
+  }
+}
